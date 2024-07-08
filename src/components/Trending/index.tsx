@@ -1,6 +1,6 @@
 import { FlatList } from 'react-native';
 import { useState, useEffect } from 'react';
-import CardHorizontalFood from '../food';
+import CardHorizontalFood from '../Food';
 
 export interface FoodProps {
   id: string;
